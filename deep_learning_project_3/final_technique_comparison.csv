@@ -1,0 +1,7 @@
+Technique,Type,What It Detects,Lighting Robustness,Approx FPS,Best Use Case
+Morphological Operations,Classical Image Processing,Does not detect objects,Low - depends on image contrast,N/A,Noise removal and image cleaning
+Bitwise Operations,Classical Image Processing,Does not detect objects,Low - depends on mask quality,N/A,Masking and image extraction
+Image Histograms,Image Analysis,Pixel intensity and colour distribution,Helps analyse brightness,N/A,Brightness and colour analysis
+YuNet Face Detection,Deep Learning,Human Faces,Moderate - affected by poor lighting,N/A,Face detection and privacy applications
+YOLOv8 Object Detection,Deep Learning,80 COCO object classes,Moderate - affected by poor lighting,26.92,Multi-class object detection
+Combined YuNet + YOLO,Hybrid Pipeline,Faces and COCO objects,Moderate - affected by poor lighting,16.49,Real-time surveillance pipeline
