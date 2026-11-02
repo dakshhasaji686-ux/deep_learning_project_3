@@ -5,6 +5,9 @@ This project focuses on implementing different Computer Vision and Deep Learning
 
 The project also combines multiple techniques into an integrated detection pipeline and compares their performance using processing time and FPS.
 
+
+# project explanation video
+https://drive.google.com/file/d/1cQG09GYN5mnsGEYZQqqovdrpBfXgWxAI/view?usp=drive_link
 ## Objectives
 - Understand basic image processing techniques.
 - Apply morphological operations to binary images.
